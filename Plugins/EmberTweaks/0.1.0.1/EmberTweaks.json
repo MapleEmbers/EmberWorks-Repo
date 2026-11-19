@@ -1,0 +1,20 @@
+{
+  "Author": "EmberWorks",
+  "Name": "Ember Tweaks",
+  "InternalName": "EmberTweaks",
+  "AssemblyVersion": "0.1.0.1",
+  "Description": "Ember Tweaks is a Dalamud plugin for customizable quality-of-life improvements in Final Fantasy XIV.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "quality-of-life",
+    "tweaks",
+    "utility"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Quality-of-life tweaks for Final Fantasy XIV.",
+  "AcceptsFeedback": true
+}

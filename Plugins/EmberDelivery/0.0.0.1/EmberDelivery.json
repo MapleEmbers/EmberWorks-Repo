@@ -1,0 +1,21 @@
+{
+  "Author": "EmberWorks",
+  "Name": "Ember Delivery",
+  "InternalName": "EmberDelivery",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "See weekly Custom Delivery requests, client ranks, and remaining allowances. Open the map to find each client. Hand-ins are still manual.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "custom deliveries",
+    "crafting",
+    "gathering",
+    "fishing"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Make custom deliveries less annoying by automating the process.",
+  "AcceptsFeedback": true
+}

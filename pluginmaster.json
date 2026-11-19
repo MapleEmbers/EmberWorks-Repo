@@ -1,0 +1,57 @@
+[
+  {
+    "Author": "EmberWorks",
+    "Name": "Ember Tweaks",
+    "Punchline": "Quality-of-life tweaks for Final Fantasy XIV.",
+    "Description": "Ember Tweaks is a Dalamud plugin for customizable quality-of-life improvements in Final Fantasy XIV.",
+    "InternalName": "EmberTweaks",
+    "AssemblyVersion": "0.1.0.1",
+    "RepoUrl": "https://github.com/MapleEmbers/EmberWorks-Repo",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "quality-of-life",
+      "tweaks",
+      "utility"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IconUrl": "",
+    "ImageUrls": [],
+    "IsHide": false,
+    "IsTestingExclusive": true,
+    "DownloadCount": 0,
+    "LastUpdate": "1795049995",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/MapleEmbers/EmberWorks-Repo/main/Plugins/EmberTweaks/0.1.0.1/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/MapleEmbers/EmberWorks-Repo/main/Plugins/EmberTweaks/0.1.0.1/latest.zip",
+    "Changelog": "Initial beta release: added Crafting Log and Gathering Log completion progress indicators.",
+    "AcceptsFeedback": true
+  },
+  {
+    "DownloadCount": 0,
+    "Author": "EmberWorks",
+    "Name": "Ember Delivery",
+    "InternalName": "EmberDelivery",
+    "AssemblyVersion": "0.0.0.1",
+    "Description": "See weekly Custom Delivery requests, client ranks, and remaining allowances. Open the map to find each client. Hand-ins are still manual.",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "custom deliveries",
+      "crafting",
+      "gathering",
+      "fishing"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Make custom deliveries less annoying by automating the process.",
+    "AcceptsFeedback": true,
+    "LastUpdate": "1795050250",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/MapleEmbers/EmberWorks-Repo/main/Plugins/EmberDelivery/0.0.0.1/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/MapleEmbers/EmberWorks-Repo/main/Plugins/EmberDelivery/0.0.0.1/latest.zip"
+  }
+]
