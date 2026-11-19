@@ -28,7 +28,8 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/MapleEmbers/EmberWorks-Repo/main/Plugins/EmberTweaks/0.1.0.1/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/MapleEmbers/EmberWorks-Repo/main/Plugins/EmberTweaks/0.1.0.1/latest.zip",
     "Changelog": "Initial beta release: added Crafting Log and Gathering Log completion progress indicators.",
-    "AcceptsFeedback": true
+    "AcceptsFeedback": true,
+    "TestingAssemblyVersion": "0.1.0.1"
   },
   {
     "DownloadCount": 0,
@@ -55,7 +56,8 @@
     "LastUpdate": "1795054799",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/MapleEmbers/EmberWorks-Repo/main/Plugins/EmberDelivery/0.0.0.1/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/MapleEmbers/EmberWorks-Repo/main/Plugins/EmberDelivery/0.0.0.1/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/MapleEmbers/EmberWorks-Repo/main/Plugins/EmberDelivery/0.0.0.1/latest.zip"
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/MapleEmbers/EmberWorks-Repo/main/Plugins/EmberDelivery/0.0.0.1/latest.zip",
+    "TestingAssemblyVersion": "0.0.0.1"
   },
   {
     "DownloadCount": 0,
@@ -82,6 +84,7 @@
     "LastUpdate": "1795054804",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/MapleEmbers/EmberWorks-Repo/main/Plugins/EmberCards/0.0.0.1/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/MapleEmbers/EmberWorks-Repo/main/Plugins/EmberCards/0.0.0.1/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/MapleEmbers/EmberWorks-Repo/main/Plugins/EmberCards/0.0.0.1/latest.zip"
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/MapleEmbers/EmberWorks-Repo/main/Plugins/EmberCards/0.0.0.1/latest.zip",
+    "TestingAssemblyVersion": "0.0.0.1"
   }
 ]
