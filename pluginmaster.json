@@ -1,6 +1,6 @@
 [
   {
-    "Author": "EmberWorks",
+    "Author": "Maple Clover",
     "Name": "Ember Tweaks",
     "Punchline": "Quality-of-life tweaks for Final Fantasy XIV.",
     "Description": "Ember Tweaks is a Dalamud plugin for customizable quality-of-life improvements in Final Fantasy XIV.",
@@ -33,7 +33,7 @@
   },
   {
     "DownloadCount": 0,
-    "Author": "EmberWorks",
+    "Author": "Maple Clover",
     "Name": "Ember Delivery",
     "InternalName": "EmberDelivery",
     "AssemblyVersion": "0.0.0.1",
@@ -61,7 +61,7 @@
   },
   {
     "DownloadCount": 0,
-    "Author": "MapleEmbers",
+    "Author": "Maple Clover",
     "Name": "EmberCards",
     "InternalName": "EmberCards",
     "AssemblyVersion": "0.0.0.1",
