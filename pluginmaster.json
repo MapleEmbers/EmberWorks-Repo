@@ -73,6 +73,7 @@
       "npc",
       "quests"
     ],
+    "IsHide": true,
     "DalamudApiLevel": 15,
     "LoadRequiredState": 0,
     "LoadSync": false,
