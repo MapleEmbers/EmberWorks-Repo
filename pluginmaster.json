@@ -54,5 +54,30 @@
     "LastUpdate": "1795050250",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/MapleEmbers/EmberWorks-Repo/main/Plugins/EmberDelivery/0.0.0.1/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/MapleEmbers/EmberWorks-Repo/main/Plugins/EmberDelivery/0.0.0.1/latest.zip"
+  },
+  {
+    "DownloadCount": 0,
+    "Author": "MapleEmbers",
+    "Name": "EmberCards",
+    "InternalName": "EmberCards",
+    "AssemblyVersion": "0.0.0.1",
+    "Description": "See which Triple Triad NPCs are unlocked for your character and which quests remain.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/MapleEmbers/EmberCards",
+    "Tags": [
+      "triple triad",
+      "npc",
+      "quests"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Track Triple Triad NPCs and their unlock quests.",
+    "AcceptsFeedback": true,
+    "LastUpdate": "1795052341",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/MapleEmbers/EmberWorks-Repo/main/Plugins/EmberCards/0.0.0.1/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/MapleEmbers/EmberWorks-Repo/main/Plugins/EmberCards/0.0.0.1/latest.zip"
   }
 ]
