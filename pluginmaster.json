@@ -5,7 +5,7 @@
     "Punchline": "Quality-of-life tweaks for Final Fantasy XIV.",
     "Description": "Ember Tweaks is a Dalamud plugin for customizable quality-of-life improvements in Final Fantasy XIV.",
     "InternalName": "EmberTweaks",
-    "AssemblyVersion": "0.1.0.1",
+    "AssemblyVersion": "0.1.0.2",
     "RepoUrl": "https://github.com/MapleEmbers/EmberWorks-Repo",
     "ApplicableVersion": "any",
     "Tags": [
@@ -23,13 +23,13 @@
     "IsHide": false,
     "IsTestingExclusive": true,
     "DownloadCount": 0,
-    "LastUpdate": "1795054795",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/MapleEmbers/EmberWorks-Repo/main/Plugins/EmberTweaks/0.1.0.1/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/MapleEmbers/EmberWorks-Repo/main/Plugins/EmberTweaks/0.1.0.1/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/MapleEmbers/EmberWorks-Repo/main/Plugins/EmberTweaks/0.1.0.1/latest.zip",
-    "Changelog": "Initial beta release: added Crafting Log and Gathering Log completion progress indicators.",
+    "LastUpdate": "1795174784",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/MapleEmbers/EmberWorks-Repo/main/Plugins/EmberTweaks/0.1.0.2/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/MapleEmbers/EmberWorks-Repo/main/Plugins/EmberTweaks/0.1.0.2/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/MapleEmbers/EmberWorks-Repo/main/Plugins/EmberTweaks/0.1.0.2/latest.zip",
+    "Changelog": "\n      ## 0.1.0.2\n      - [BUG FIX] Show a completion tick for gathering and crafting level brackets with no items or recipes. Bug found by Lotusbloom.\n    ",
     "AcceptsFeedback": true,
-    "TestingAssemblyVersion": "0.1.0.1"
+    "TestingAssemblyVersion": "0.1.0.2"
   },
   {
     "DownloadCount": 0,
